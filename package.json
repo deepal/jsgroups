@@ -1,0 +1,11 @@
+{
+  "name": "jsgroups",
+  "version": "1.0.0",
+  "description": "Reliable Messaging Cluster in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepal Jayasekara <dpjayasekara@gmail.com> (jsblog.insiderattack.net)",
+  "license": "ISC"
+}
